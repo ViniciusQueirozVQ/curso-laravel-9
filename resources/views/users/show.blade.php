@@ -1,3 +1,5 @@
+@extends('layouts.app')
+
 @section('title', 'Listagem do Usuário')
 
 @section('content')
